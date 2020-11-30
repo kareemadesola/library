@@ -175,6 +175,7 @@
       <workItem from="1603222082917" duration="45000" />
       <workItem from="1603458814916" duration="294000" />
       <workItem from="1603471752582" duration="659000" />
+      <workItem from="1606733728227" duration="376000" />
     </task>
     <servers />
   </component>
@@ -182,9 +183,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="961" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606734248424">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="961" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.900@0.0.1600.900" timestamp="1606734248424" />
     <state x="580" y="205" key="FileChooserDialogImpl" timestamp="1603459109319">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="580" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1603459109319" />
+    <state x="863" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1606734212161">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="863" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1606734212161" />
   </component>
 </project>
